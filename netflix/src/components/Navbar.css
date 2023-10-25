@@ -1,0 +1,9 @@
+.Navbar{
+    background-color: #111;
+    height:3em;
+    display: flex;
+
+}
+.text{
+    color:rgb(224, 47, 47);
+}
